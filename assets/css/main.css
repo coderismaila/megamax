@@ -636,7 +636,7 @@ svg path {
   --rr-color-white-70: rgba(255, 255, 255, 0.3);
   --rr-body-primary: #ffffff;
   --rr-theme-primary: #df0d86;
-  --rr-heading-primary: #15181b;
+  --rr-heading-primary: #141615;
   --rr-text-body: #6a6a6a;
   --rr-text-p: #6a6a6a;
   --rr-menu-primary: #15181b;
@@ -6318,7 +6318,7 @@ a.ui-button:active {
   width: 267px;
   min-width: 267px;
   min-height: 140px;
-  background: var(--rr-common-white);
+  background: #141615;
   border-bottom-right-radius: 70px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -6336,7 +6336,7 @@ a.ui-button:active {
   only screen and (min-width: 992px) and (max-width: 1199px) {
   .header-1 .header__logo {
     min-height: inherit;
-    background: transparent;
+    /* background: transparent; */
     border-radius: inherit;
   }
 }
@@ -6361,7 +6361,7 @@ a.ui-button:active {
 }
 .header-1 .header__top {
   padding: 6px 30px;
-  background-color: blue;
+  background-color: #00a6cd;
 }
 .header-1 .header__top-menu {
   gap: 30px;
@@ -12360,7 +12360,7 @@ a.ui-button:active {
   font-size: 12px;
   font-weight: 500;
   position: absolute;
-  color: blue;
+  color: #00a6cd;
   -webkit-transform-origin: 0 73px;
   transform-origin: 0 73px;
 }

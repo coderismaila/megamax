@@ -393,6 +393,7 @@
       ========================================*/
   $('.popup-video').magnificPopup({
     type: 'iframe',
+    fixedContentPos: true,
   })
 
   /*======================================
