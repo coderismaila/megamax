@@ -6336,7 +6336,7 @@ a.ui-button:active {
   only screen and (min-width: 992px) and (max-width: 1199px) {
   .header-1 .header__logo {
     min-height: inherit;
-    /* background: transparent; */
+    background: transparent;
     border-radius: inherit;
   }
 }
